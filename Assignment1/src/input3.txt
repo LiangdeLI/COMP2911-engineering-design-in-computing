@@ -1,0 +1,30 @@
+Location A A1a Automatic      
+Location A A2a Automatic        
+Location A A3a Automatic         
+Location B B1m Manual           
+Location C C1a Automatic         
+Location C C2a Automatic         
+Location D D1m Manual           
+Location D D2m Manual           
+Location D D3m Manual            
+# Test whether vans can be rented during month change
+Request 1 23 Apr 25 12 May 26 3 Automatic 1 Manual
+# Test when too many vans been requested, the request will be rejected
+Request 2 12 Mar 24 15 Mar 27 5 Manual
+# Test when vans been return, they can be ordered for latter request
+Request 3 20 May 26 21 Jun 26 2 Automatic 2 Manual
+Print A
+# Test whether change  will be rejected if new booking cannot be fulfilled
+Change 1 23 May 27 23 May 29 4 Automatic
+# Test whether the booking with change rejected stay the same as before
+Print A
+# Test whether the vans can be booked just one hour latter than last booking
+Request 4 22 Jun 26 09 Jun 28 4 Automatic
+# Test whether cancel function work well
+Cancel 3
+# Print all booking now to check the result
+Print A
+Print B
+Print C
+# Test if no booking, nothing will be printed
+Print D

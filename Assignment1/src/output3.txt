@@ -1,0 +1,24 @@
+Booking 1 A A1a, A2a, A3a; B B1m
+Booking rejected
+Booking 3 A A1a, A2a; B B1m; D D1m
+A A1a 23:00 Apr 25 12:00 May 26
+A A1a 20:00 May 26 21:00 Jun 26
+A A2a 23:00 Apr 25 12:00 May 26
+A A2a 20:00 May 26 21:00 Jun 26
+A A3a 23:00 Apr 25 12:00 May 26
+Change rejected
+A A1a 23:00 Apr 25 12:00 May 26
+A A1a 20:00 May 26 21:00 Jun 26
+A A2a 23:00 Apr 25 12:00 May 26
+A A2a 20:00 May 26 21:00 Jun 26
+A A3a 23:00 Apr 25 12:00 May 26
+Booking 4 A A1a, A2a, A3a; C C1a
+Cancel 3
+A A1a 23:00 Apr 25 12:00 May 26
+A A1a 22:00 Jun 26 09:00 Jun 28
+A A2a 23:00 Apr 25 12:00 May 26
+A A2a 22:00 Jun 26 09:00 Jun 28
+A A3a 23:00 Apr 25 12:00 May 26
+A A3a 22:00 Jun 26 09:00 Jun 28
+B B1m 23:00 Apr 25 12:00 May 26
+C C1a 22:00 Jun 26 09:00 Jun 28

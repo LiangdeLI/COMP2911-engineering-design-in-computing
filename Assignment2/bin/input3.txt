@@ -1,0 +1,64 @@
+# test when jobs cannot finished(some jobs are in subgraph), whether program stop and report no solution
+Unloading 0 Sydney
+Unloading 0 A
+Unloading 0 B
+Unloading 0 C
+Unloading 0 D
+Unloading 0 E
+Unloading 0 F
+Unloading 0 G
+Unloading 0 H
+Unloading 0 I
+Unloading 0 J
+Unloading 0 K
+Unloading 0 L
+Unloading 0 M
+Unloading 0 N
+Unloading 0 O
+Unloading 0 P
+Unloading 0 Q
+Unloading 0 R
+Unloading 0 S
+Unloading 0 T
+Cost 100 Sydney A
+Cost 100 A B
+Cost 100 A C
+Cost 100 A J
+Cost 100 B C
+Cost 100 B J
+Cost 100 B D
+Cost 100 B F
+Cost 100 C F
+Cost 100 C R
+Cost 100 D J
+Cost 100 D L
+Cost 100 D E
+Cost 100 E F
+Cost 100 E M
+Cost 100 E H
+Cost 100 F G
+Cost 100 G R
+Cost 100 G H
+Cost 100 H Q
+Cost 100 H P
+Cost 100 I J
+Cost 100 I K
+Cost 100 I O
+Cost 100 J K
+Cost 100 K N
+Cost 100 K L
+Cost 100 L M
+Cost 100 L N
+Cost 100 M P
+Cost 100 N O
+Cost 100 S T #They are in isolated subgraph
+Job Sydney A
+Job A C
+Job A B
+Job E F
+Job G H
+Job H Q
+Job J K
+Job O I
+Job K N
+Job S T #in subgraph, cannot do it

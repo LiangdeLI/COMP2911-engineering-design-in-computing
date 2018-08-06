@@ -1,0 +1,15 @@
+Booking 1 A A1a, A2a, A3a; B B1m
+Booking 2 D D1m
+Booking 3 A A1a, A2a; B B1m; D D2m
+Change 1 A A1a, A2a; B B1m; D D1m, D2m
+Booking 4 A A1a
+Cancel 3
+Booking rejected
+Booking rejected
+A A1a 11:00 Mar 25 09:00 Mar 26
+A A1a 23:00 Mar 27 23:00 Mar 29
+A A2a 23:00 Mar 27 23:00 Mar 29
+B B1m 23:00 Mar 27 23:00 Mar 29
+D D1m 12:00 Mar 24 15:00 Mar 27
+D D1m 23:00 Mar 27 23:00 Mar 29
+D D2m 23:00 Mar 27 23:00 Mar 29

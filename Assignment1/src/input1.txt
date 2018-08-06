@@ -1,0 +1,53 @@
+Location A A1a Automatic      
+Location A A2a Automatic        
+Location A A3a Automatic         
+Location B B1m Manual           
+Location C C1a Automatic         
+Location C C2a Automatic         
+Location D D1m Manual           
+Location D D2m Manual           
+Location D D3m Manual            
+# Test all month functions working well
+Request 1 19 Jan 21 19 Feb 21 3 Automatic 
+Request 2 19 Mar 21 19 Apr 21 3 Automatic
+Request 3 19 May 21 19 Jun 21 3 Automatic
+Request 4 19 Jul 21 19 Aug 21 3 Automatic
+Request 5 19 Sep 21 19 Oct 21 3 Automatic
+Request 6 19 Nov 21 19 Dec 21 3 Automatic
+Print A
+# Test all days in a month work well
+Request 7 8 Sep 1 21 Sep 2 1 Manual
+Request 8 8 Sep 3 21 Sep 4 1 Manual
+Request 9 8 Sep 5 21 Sep 6 1 Manual
+Request 10 8 Sep 7 21 Sep 8 1 Manual
+Request 11 8 Sep 9 21 Sep 10 1 Manual
+Request 12 8 Sep 11 21 Sep 12 1 Manual
+Request 13 8 Sep 13 21 Sep 14 1 Manual
+Request 14 8 Sep 15 21 Sep 16 1 Manual
+Request 15 8 Sep 17 21 Sep 18 1 Manual
+Request 16 8 Sep 19 21 Sep 20 1 Manual
+Request 17 8 Sep 21 21 Sep 22 1 Manual
+Request 18 8 Sep 23 21 Sep 24 1 Manual
+Request 19 8 Sep 25 21 Sep 26 1 Manual
+Request 20 8 Sep 27 21 Sep 28 1 Manual
+Request 21 8 Sep 29 21 Sep 30 1 Manual
+Print B
+# Test all hours in one day work well
+Request 22 0 Sep 1 2 Sep 1 2 Manual
+Request 23 3 Sep 1 4 Sep 1 2 Manual
+Request 24 5 Sep 1 6 Sep 1 2 Manual
+Request 25 7 Sep 1 8 Sep 1 2 Manual
+Request 26 9 Sep 1 10 Sep 1 2 Manual
+Request 27 11 Sep 1 12 Sep 1 2 Manual
+Request 28 13 Sep 1 14 Sep 1 2 Manual
+Request 29 15 Sep 1 16 Sep 1 2 Manual
+Request 30 17 Sep 1 18 Sep 1 2 Manual
+Request 31 19 Sep 1 20 Sep 1 2 Manual
+Request 32 21 Sep 1 22 Sep 1 2 Manual
+Request 33 23 Sep 1 1 Sep 2 2 Manual
+Print D
+# Print all booking now to check the result
+Print A
+Print B
+Print C
+Print D

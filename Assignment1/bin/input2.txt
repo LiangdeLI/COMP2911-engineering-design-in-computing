@@ -1,0 +1,30 @@
+Location A A1a Automatic      
+Location A A2a Automatic        
+Location A A3a Automatic         
+Location B B1m Manual           
+Location C C1a Automatic         
+Location C C2a Automatic         
+Location D D1m Manual           
+Location D D2m Manual           
+Location D D3m Manual            
+# Test whether vans can be rented from different depots when one depot exhausts its allocation of vehicles
+Request 1 23 Mar 25 12 Mar 26 3 Automatic 1 Manual
+# Test whether vans already booked are skipped and the next available van in order of declaration is assigned to booking
+Request 2 12 Mar 24 15 Mar 27 1 Manual
+# Test whether one type of vans can be rented from different depots when one depot exhausts its allocation of vehicles
+Request 3 13 Mar 26 21 Mar 26 2 Automatic 2 Manual
+# Test whether change function is working well
+Change 1 23 Mar 27 23 Mar 29 3 Manual 2 Automatic
+# Test whether the vans just been free from change can be rented again
+Request 4 11 Mar 25 09 Mar 26 1 Automatic
+# Test whether cancel function work well
+Cancel 3
+# Test whether request will be rejected if cannot be totally made
+Request 5 11 Mar 26 09 Mar 27 4 Manual 
+# Test whether request will be rejected if two booking end and start at same time
+Request 6 23 Mar 29 21 Mar 30 4 Manual
+# Print all booking now to check the result
+Print A
+Print B
+Print C
+Print D

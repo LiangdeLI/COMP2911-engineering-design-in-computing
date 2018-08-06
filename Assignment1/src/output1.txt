@@ -1,0 +1,144 @@
+Booking 1 A A1a, A2a, A3a
+Booking 2 A A1a, A2a, A3a
+Booking 3 A A1a, A2a, A3a
+Booking 4 A A1a, A2a, A3a
+Booking 5 A A1a, A2a, A3a
+Booking 6 A A1a, A2a, A3a
+A A1a 19:00 Jan 21 19:00 Feb 21
+A A1a 19:00 Mar 21 19:00 Apr 21
+A A1a 19:00 May 21 19:00 Jun 21
+A A1a 19:00 Jul 21 19:00 Aug 21
+A A1a 19:00 Sep 21 19:00 Oct 21
+A A1a 19:00 Nov 21 19:00 Dec 21
+A A2a 19:00 Jan 21 19:00 Feb 21
+A A2a 19:00 Mar 21 19:00 Apr 21
+A A2a 19:00 May 21 19:00 Jun 21
+A A2a 19:00 Jul 21 19:00 Aug 21
+A A2a 19:00 Sep 21 19:00 Oct 21
+A A2a 19:00 Nov 21 19:00 Dec 21
+A A3a 19:00 Jan 21 19:00 Feb 21
+A A3a 19:00 Mar 21 19:00 Apr 21
+A A3a 19:00 May 21 19:00 Jun 21
+A A3a 19:00 Jul 21 19:00 Aug 21
+A A3a 19:00 Sep 21 19:00 Oct 21
+A A3a 19:00 Nov 21 19:00 Dec 21
+Booking 7 B B1m
+Booking 8 B B1m
+Booking 9 B B1m
+Booking 10 B B1m
+Booking 11 B B1m
+Booking 12 B B1m
+Booking 13 B B1m
+Booking 14 B B1m
+Booking 15 B B1m
+Booking 16 B B1m
+Booking 17 B B1m
+Booking 18 B B1m
+Booking 19 B B1m
+Booking 20 B B1m
+Booking 21 B B1m
+B B1m 08:00 Sep 1 21:00 Sep 2
+B B1m 08:00 Sep 3 21:00 Sep 4
+B B1m 08:00 Sep 5 21:00 Sep 6
+B B1m 08:00 Sep 7 21:00 Sep 8
+B B1m 08:00 Sep 9 21:00 Sep 10
+B B1m 08:00 Sep 11 21:00 Sep 12
+B B1m 08:00 Sep 13 21:00 Sep 14
+B B1m 08:00 Sep 15 21:00 Sep 16
+B B1m 08:00 Sep 17 21:00 Sep 18
+B B1m 08:00 Sep 19 21:00 Sep 20
+B B1m 08:00 Sep 21 21:00 Sep 22
+B B1m 08:00 Sep 23 21:00 Sep 24
+B B1m 08:00 Sep 25 21:00 Sep 26
+B B1m 08:00 Sep 27 21:00 Sep 28
+B B1m 08:00 Sep 29 21:00 Sep 30
+Booking 22 B B1m; D D1m
+Booking 23 B B1m; D D1m
+Booking 24 B B1m; D D1m
+Booking 25 D D1m, D2m
+Booking 26 D D1m, D2m
+Booking 27 D D1m, D2m
+Booking 28 D D1m, D2m
+Booking 29 D D1m, D2m
+Booking 30 D D1m, D2m
+Booking 31 D D1m, D2m
+Booking 32 D D1m, D2m
+Booking 33 D D1m, D2m
+D D1m 00:00 Sep 1 02:00 Sep 1
+D D1m 03:00 Sep 1 04:00 Sep 1
+D D1m 05:00 Sep 1 06:00 Sep 1
+D D1m 07:00 Sep 1 08:00 Sep 1
+D D1m 09:00 Sep 1 10:00 Sep 1
+D D1m 11:00 Sep 1 12:00 Sep 1
+D D1m 13:00 Sep 1 14:00 Sep 1
+D D1m 15:00 Sep 1 16:00 Sep 1
+D D1m 17:00 Sep 1 18:00 Sep 1
+D D1m 19:00 Sep 1 20:00 Sep 1
+D D1m 21:00 Sep 1 22:00 Sep 1
+D D1m 23:00 Sep 1 01:00 Sep 2
+D D2m 07:00 Sep 1 08:00 Sep 1
+D D2m 09:00 Sep 1 10:00 Sep 1
+D D2m 11:00 Sep 1 12:00 Sep 1
+D D2m 13:00 Sep 1 14:00 Sep 1
+D D2m 15:00 Sep 1 16:00 Sep 1
+D D2m 17:00 Sep 1 18:00 Sep 1
+D D2m 19:00 Sep 1 20:00 Sep 1
+D D2m 21:00 Sep 1 22:00 Sep 1
+D D2m 23:00 Sep 1 01:00 Sep 2
+A A1a 19:00 Jan 21 19:00 Feb 21
+A A1a 19:00 Mar 21 19:00 Apr 21
+A A1a 19:00 May 21 19:00 Jun 21
+A A1a 19:00 Jul 21 19:00 Aug 21
+A A1a 19:00 Sep 21 19:00 Oct 21
+A A1a 19:00 Nov 21 19:00 Dec 21
+A A2a 19:00 Jan 21 19:00 Feb 21
+A A2a 19:00 Mar 21 19:00 Apr 21
+A A2a 19:00 May 21 19:00 Jun 21
+A A2a 19:00 Jul 21 19:00 Aug 21
+A A2a 19:00 Sep 21 19:00 Oct 21
+A A2a 19:00 Nov 21 19:00 Dec 21
+A A3a 19:00 Jan 21 19:00 Feb 21
+A A3a 19:00 Mar 21 19:00 Apr 21
+A A3a 19:00 May 21 19:00 Jun 21
+A A3a 19:00 Jul 21 19:00 Aug 21
+A A3a 19:00 Sep 21 19:00 Oct 21
+A A3a 19:00 Nov 21 19:00 Dec 21
+B B1m 00:00 Sep 1 02:00 Sep 1
+B B1m 03:00 Sep 1 04:00 Sep 1
+B B1m 05:00 Sep 1 06:00 Sep 1
+B B1m 08:00 Sep 1 21:00 Sep 2
+B B1m 08:00 Sep 3 21:00 Sep 4
+B B1m 08:00 Sep 5 21:00 Sep 6
+B B1m 08:00 Sep 7 21:00 Sep 8
+B B1m 08:00 Sep 9 21:00 Sep 10
+B B1m 08:00 Sep 11 21:00 Sep 12
+B B1m 08:00 Sep 13 21:00 Sep 14
+B B1m 08:00 Sep 15 21:00 Sep 16
+B B1m 08:00 Sep 17 21:00 Sep 18
+B B1m 08:00 Sep 19 21:00 Sep 20
+B B1m 08:00 Sep 21 21:00 Sep 22
+B B1m 08:00 Sep 23 21:00 Sep 24
+B B1m 08:00 Sep 25 21:00 Sep 26
+B B1m 08:00 Sep 27 21:00 Sep 28
+B B1m 08:00 Sep 29 21:00 Sep 30
+D D1m 00:00 Sep 1 02:00 Sep 1
+D D1m 03:00 Sep 1 04:00 Sep 1
+D D1m 05:00 Sep 1 06:00 Sep 1
+D D1m 07:00 Sep 1 08:00 Sep 1
+D D1m 09:00 Sep 1 10:00 Sep 1
+D D1m 11:00 Sep 1 12:00 Sep 1
+D D1m 13:00 Sep 1 14:00 Sep 1
+D D1m 15:00 Sep 1 16:00 Sep 1
+D D1m 17:00 Sep 1 18:00 Sep 1
+D D1m 19:00 Sep 1 20:00 Sep 1
+D D1m 21:00 Sep 1 22:00 Sep 1
+D D1m 23:00 Sep 1 01:00 Sep 2
+D D2m 07:00 Sep 1 08:00 Sep 1
+D D2m 09:00 Sep 1 10:00 Sep 1
+D D2m 11:00 Sep 1 12:00 Sep 1
+D D2m 13:00 Sep 1 14:00 Sep 1
+D D2m 15:00 Sep 1 16:00 Sep 1
+D D2m 17:00 Sep 1 18:00 Sep 1
+D D2m 19:00 Sep 1 20:00 Sep 1
+D D2m 21:00 Sep 1 22:00 Sep 1
+D D2m 23:00 Sep 1 01:00 Sep 2

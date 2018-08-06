@@ -1,0 +1,63 @@
+# test whether loading time is working, will be added to total cost, will just 6*9 = 54 more
+Unloading 6 Sydney
+Unloading 6 A
+Unloading 6 B
+Unloading 6 C
+Unloading 6 D
+Unloading 6 E
+Unloading 6 F
+Unloading 6 G
+Unloading 6 H
+Unloading 6 I
+Unloading 6 J
+Unloading 6 K
+Unloading 6 L
+Unloading 6 M
+Unloading 6 N
+Unloading 6 O
+Unloading 6 P
+Unloading 6 Q
+Unloading 6 R
+Unloading 6 S
+Unloading 6 T
+Cost 100 Sydney A
+Cost 100 A B
+Cost 100 A C
+Cost 100 A J
+Cost 100 B C
+Cost 100 B J
+Cost 100 B D
+Cost 100 B F
+Cost 100 C F
+Cost 100 C R
+Cost 100 D J
+Cost 100 D L
+Cost 100 D E
+Cost 100 E F
+Cost 100 E M
+Cost 100 E H
+Cost 100 F G
+Cost 100 G R
+Cost 100 G H
+Cost 100 H Q
+Cost 100 H P
+Cost 100 I J
+Cost 100 I K
+Cost 100 I O
+Cost 100 J K
+Cost 100 K N
+Cost 100 K L
+Cost 100 L M
+Cost 100 L N
+Cost 100 M P
+Cost 100 N O
+Cost 100 S T 
+Job Sydney A
+Job A C
+Job A B
+Job E F
+Job G H
+Job H Q
+Job J K
+Job O I
+Job K N
